@@ -1,0 +1,17 @@
+.goBtn {
+  display: inline-block;
+  padding: 4px 10px;
+  border: 0.7px solid var(--black);
+  border-radius: 4px;
+  margin-bottom: 10px;
+  text-decoration: none;
+  background-color: var(--lightGrey);
+}
+
+.goBtn:visited {
+  color: inherit;
+}
+
+.goBtn:hover {
+  background-color: var(--lightHover);
+}

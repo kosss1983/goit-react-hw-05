@@ -1,0 +1,21 @@
+.navBox {
+  display: flex;
+  padding: 20px 30px;
+  gap: 15px;
+  box-shadow: 0 4px 10px -5px;
+}
+
+.navBox a {
+  text-decoration: none;
+  color: var(--black);
+  font-size: 22px;
+}
+
+.navBox a:hover {
+  text-decoration: underline;
+  color: var(--red);
+}
+
+.navBox .active {
+  color: var(--red);
+}

@@ -1,0 +1,8 @@
+.notFoundText {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  font-size: 56px;
+  font-weight: 500;
+  color: var(--red);
+}
